@@ -1,0 +1,8 @@
+{
+  "name": "Hello Reloading",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bcccaebb"
+}
