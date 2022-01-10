@@ -44,7 +44,7 @@ const Home: React.FC = () => {
         <IonHeader collapse="condense">
           <IonToolbar>
             <IonTitle size="large">
-              Inbox
+              La bandeja de Entrada
             </IonTitle>
           </IonToolbar>
         </IonHeader>
