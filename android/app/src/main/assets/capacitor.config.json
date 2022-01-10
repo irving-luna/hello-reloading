@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Hello Reloading",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
